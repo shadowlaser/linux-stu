@@ -1,0 +1,2 @@
+/home/rooted/Develop/github/linux-stu/cmake/2rd/3rd/build/CMakeFiles/hello.dir
+/home/rooted/Develop/github/linux-stu/cmake/2rd/3rd/build/CMakeFiles/libhello.dir
